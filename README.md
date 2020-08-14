@@ -1,5 +1,4 @@
-# HTML Course
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>HTML</title>
